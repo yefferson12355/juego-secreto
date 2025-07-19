@@ -1,5 +1,5 @@
 let numeroSecreto = generarNumeroSecreto();
-let intentos = 0;
+let intentos = 8;
 //lista de arrays ..para que no se vuelva a jugar con el mismo numero
 
 
